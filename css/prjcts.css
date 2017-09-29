@@ -1,0 +1,29 @@
+body{background-color: #04184F;}
+
+h1 {
+	font-size: 30px;
+	color: #FFFFFF;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2 {
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 60px;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+h3 {
+	color: #04184F;
+	font-size: 50px;
+
+}
